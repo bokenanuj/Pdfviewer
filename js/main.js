@@ -1,4 +1,4 @@
-const url = 'Pdfviewer/docs/pdf.pdf';
+const url = 'https://github.com/bokenanuj/Pdfviewer/blob/master/docs/pdf.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
