@@ -1,4 +1,4 @@
-const url = 'docs/pdf.pdf';
+const url = 'Pdfviewer/docs/pdf.pdf';
 
 let pdfDoc = null,
   pageNum = 1,
